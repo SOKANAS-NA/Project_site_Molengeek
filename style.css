@@ -227,7 +227,7 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    /* Assurez-vous que le footer n'a pas de marge inférieure */
+    
 }
 
 .footer-content {
